@@ -1,0 +1,1 @@
+# kotlin-training-day-sept-2023
