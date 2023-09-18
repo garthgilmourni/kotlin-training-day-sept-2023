@@ -16,3 +16,5 @@ Full details can be found in [the slide deck used to deliver the workshop](https
 * *ktor-compose-client* - A desktop UI, which uses Compose Multiplatform and the Ktor Client to interact with the RESTful service.
 * *ktor-rest-exposed-start* - Our REST / SPA based application, but now talking to a PostgreSQL database via a repository implemented using the Exposed Framework. With two tasks to complete.
 * *ktor-rest-exposed-finish* - The completed version of the above.
+
+Please note that, after cloning this repository, you will need to make the *gradlew* scripts executable if you intend to build and run the projects manually.
