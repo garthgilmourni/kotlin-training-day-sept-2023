@@ -106,7 +106,6 @@ class ApplicationTest {
         )
         val repository = FakeTaskRepository(tasks)
         configureSerialization(repository)
-        configureRouting()
     }
 
     private fun ApplicationTestBuilder.restClient() = createClient {
